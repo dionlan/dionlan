@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Hi Dear! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Dionlan Alves! Welcome my Github. </h1>
 
 <!--
 **dionlan/dionlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### ⚙ GitHub Analytics
 <div>
   <a href="https://github.com/dionlan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dionlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Contact:
+### 💬 Contact
 <div>
   <a href = "mailto:dionlan.alves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dionlan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br/>
 
-### Professional Background and Skills:
-<div style="display" :inline_block>
+### 🛠 Professional Background and Skills
+<div style="display" align="center">
+  
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
