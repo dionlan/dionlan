@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 ### ⚙ GitHub Analytics
 <div>
   <a href="https://github.com/dionlan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dionlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlan&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dionlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlan&layout=compact&langs_count=7&theme=dracula"/>
+ 
+  <img height="150em" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+    
 </div>
 
 ### 💬 Contact
@@ -61,6 +64,8 @@ Here are some ideas to get you started:
   <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   
 </div>
   
