@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlan&layout=compact&langs_count=7&theme=dracula"/>
  
   <img height="150em" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-    
 </div>
 
 ### 💬 Contact
@@ -47,7 +46,7 @@ Here are some ideas to get you started:
   
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-E95420?&style=for-the-badge&logo=css3&logoColor=white" />
   
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
@@ -64,7 +63,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  
 </div>
-  
+<br/>
+
+### 🐍 My Github contribuitions in the last year
+<div>
+  <a href="https://github.com/dionlan">
   ![Snake animation](https://github.com/dionlan/dionlan/blob/output/github-contribution-grid-snake.svg)
+</div>
