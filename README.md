@@ -65,3 +65,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 <br/>
+
+### 🐍 My Github contribuitions in the last year
+![snake gif](https://github.com/dionlan/dionlan/blob/output/github-contribution-grid-snake.svg)
