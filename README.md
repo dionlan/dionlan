@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 <br/>
 
 <h1> </h1>
-  
 <br/>
+ 
 ### 🛠 Professional Background and Skills
-<div style="display" align="center">
+<div align="center">
   
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
