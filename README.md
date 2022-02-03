@@ -1,4 +1,7 @@
-<h1 align="left">Hi Dear! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Dionlan Alves! Welcome my Github. </h1>
+<h1><div align="center">Hi Dear! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> 
+  I'm Dionlan Alves! Welcome my Github.
+  </div></h1>
+  
 
 <!--
 **dionlan/dionlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +26,11 @@ Here are some ideas to get you started:
  
   <img height="150em" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </div>
-
+<br/>
+  
+<h1> </h1>
+<br/>
+  
 ### 💬 Contact
 <div>
   <a href = "mailto:dionlan.alves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,6 +38,9 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
+<h1> </h1>
+  
+<br/>
 ### 🛠 Professional Background and Skills
 <div style="display" align="center">
   
@@ -65,6 +75,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 <br/>
-
+  
+<h1></h1>
+<br/>
+  
 ### 🐍 My Github contribuitions in the last year
 ![snake gif](https://github.com/dionlan/dionlan/blob/output/github-contribution-grid-snake.svg)
